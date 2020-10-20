@@ -1,4 +1,4 @@
-require_relative '../lib/turn'
+require_relative '../bin/turn'
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
